@@ -5,6 +5,7 @@ ketik:
 # sudo apt-get install perl
 # sudo apt-get install libwww-mechanize-shell-perl
 # sudo apt-get install perl-mechanize
+# chmod +x resource.pl
 
 
 1)Download resource.pl
