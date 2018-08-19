@@ -8,9 +8,13 @@ ketik:
 
 
 1)Download resource.pl
+
 2)buka Terminal
+
 2)# cd /thePathToYour resource.plfile
+
 3)# ./resource.pl
+
 4)# perl resource.pl -dns (Masukan URL atau IP) -options
 
 
@@ -18,4 +22,4 @@ ketik:
 selesai
 
 
-Mr.RiKi [ NCPH ]a 
+Mr.RiKi [ NCPH ]
