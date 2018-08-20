@@ -24,3 +24,6 @@ selesai
 
 
 Mr.RiKi [ NCPH ]
+
+FANSPAGE
+https://www.facebook.com/PhantomGhost/
